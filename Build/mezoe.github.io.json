@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Massim Project",
+"dataUrl": "mezoe.github.io.data.unityweb",
+"asmCodeUrl": "mezoe.github.io.asm.code.unityweb",
+"asmMemoryUrl": "mezoe.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "mezoe.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
